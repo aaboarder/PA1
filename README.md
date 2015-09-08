@@ -12,3 +12,5 @@ The changes made here reflect the changes made to the Point class file. Implemen
 
 # Compiler
 I used MinGW to compile my code.
+###Note
+When I initially built my code, I received an error message stating that a file was missing and that the build couldn't be run. However, after closing the dialogue boxes I was able to see the program run just fine in Clion so I am not sure what is the cause of this error is as the program still runs. If this causes issues with grading, please let me know.
