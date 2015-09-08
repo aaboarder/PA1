@@ -11,4 +11,4 @@ In this file, code was added to take input from the user in order to create thre
 The changes made here reflect the changes made to the Point class file. Implementations for the new accessor and mutator files were added as well as the implementation of the new member function distanceTo.
 
 # Compiler
-I used WinGW to compile my code.
+I used MinGW to compile my code.
