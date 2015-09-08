@@ -44,7 +44,7 @@ int main(void)
 
     double area;        //varaible holding the return value of computeArea
     area = computeArea(p1, p2, p3);
-    cout << "The area is: " << area << endl;
+    cout << "The area is: " << setprecision(2)<< area << endl;
 
     return 0;
 }
