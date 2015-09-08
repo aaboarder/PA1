@@ -1,5 +1,3 @@
-Edited README.md
-
 # Overview of updated class file
 The updated program now computes the area of a 3D triangle based off of the coordinates input by the user. The 3D Point class has 3 private variables, x, y and z which all store the coordiates of the point. All are double variables initialized to 0.0. There are the standard accessor and mutator functions which allow for the manipulation of the coordinate values. There has been an additional function added, double distanceTo(Point &); which computes the distance between the point calling the function and the point in the function's argument. The original class was designed around 2D objects so with the addition of the third point, z, for a 3D object, an additional constructor, accesor and mutator function was added to reflect these changes.
 
